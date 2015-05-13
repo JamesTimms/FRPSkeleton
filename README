@@ -1,1 +1,5 @@
 This repository is meant to be use as a skeleton for creating games in the FRPGameEngine.
+
+Unzip the natives folder.
+Add -Djava.library.path="native" as an option when running any games. 
+This is a requirement of lwjgl.
